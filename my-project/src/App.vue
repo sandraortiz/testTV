@@ -7,6 +7,10 @@
     text="Lorem ipsum dolor sit amet consectetur adipisicing elit. Iusto voluptate exercitationem tenetur, odit unde ratione perferendis praesentium quo sint non voluptatum ea laudantium sit rerum maxime porro dicta ex voluptatem.">
       ToolTip
     </ToolTip>
+    <button v-tooltip.top="{
+  content: 'msgkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkk',
+   }
+  ">lorem</button>
   </div>
 </template>
 
